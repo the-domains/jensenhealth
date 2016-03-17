@@ -1,6 +1,6 @@
 name: JensenHealth
 favicon: null
-layout_spectrum: 0.37152
+layout_spectrum: 0.1098
 typography_spectrum: 0.2758158100768924
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0
   lightness: 0.891764496685937
-  saturation: 0.5858205819968134
+  saturation: 0.5
   rhythmicContrast: 0.49753417167812586
 purpose: []
