@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ByalBx85iC8'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Peter uses his famous "Slinky" presentation to demonstrate the effects of trauma on the nervous system, and his philosophy of treating trauma; which involves slowly releasing (or titrating) this compressed fight-or-flight energy a bit at time to give the individual the ability to reintegrate it back into their nervous system.'
+datePublished: '2016-03-17T03:28:11.716Z'
+dateModified: '2016-03-17T03:28:08.244Z'
 author:
   - name: Peter A. Levine
     url: 'https://www.youtube.com/user/drpeterpal'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Peter uses his famous "Slinky" presentation to demonstrate the effects of trauma on the nervous system, and his philosophy of treating trauma; which involves slowly releasing (or titrating) this compressed fight-or-flight energy a bit at time to give the individual the ability to reintegrate it back into their nervous system.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ByalBx85iC8'
 title: 'Trauma, Somatic Experiencing and Peter A. Levine PhD'
-datePublished: '2016-03-17T02:51:35.586Z'
-dateModified: '2016-03-17T02:48:58.637Z'
 sourcePath: _posts/2016-03-17-trauma-somatic-experiencing-and-peter-a-levine-phd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
