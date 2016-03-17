@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Mercola
-    url: 'https://www.youtube.com/user/mercola'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=IWu3rSEddZI'
+inLanguage: en
+starred: false
 keywords:
   - eft
   - duration
@@ -21,7 +17,13 @@ keywords:
   - wanderlust
   - technique
 description: "http://eft.mercola.com/?x_cid=youtube EFT Practitioner of Dr. Mercola's Center for Natural Health Julie Schiffman shows a tool which can help in various aspects of life, it's called Emotional Freedom Technique (EFT) Technique also known as Tapping."
-inLanguage: en
+datePublished: '2016-03-17T03:27:48.356Z'
+dateModified: '2016-03-17T03:27:41.159Z'
+author:
+  - name: Mercola
+    url: 'https://www.youtube.com/user/mercola'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IWu3rSEddZI&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IWu3rSEddZI'
 title: Emotional Freedom Technique (EFT) Demonstration
-datePublished: '2016-03-17T02:51:35.721Z'
-dateModified: '2016-03-17T02:46:58.915Z'
 sourcePath: _posts/2016-03-17-emotional-freedom-technique-eft-demonstration.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
