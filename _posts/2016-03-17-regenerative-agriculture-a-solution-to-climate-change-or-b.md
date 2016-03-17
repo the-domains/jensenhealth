@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=yp1i8_JFsao'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This talk was given at a local TEDx event, produced independently of the TED Conferences. What if we could reverse global warming with just one methodological shift? Can the way we farm radically impact not just our output but also overwhelming wide-ranging concerns for our environment, hunger, and poverty?'
+datePublished: '2016-03-17T03:28:57.115Z'
+dateModified: '2016-03-17T03:28:51.272Z'
 author:
   - name: TEDx Talks
     url: 'https://www.youtube.com/user/TEDxTalks'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'This talk was given at a local TEDx event, produced independently of the TED Conferences. What if we could reverse global warming with just one methodological shift? Can the way we farm radically impact not just our output but also overwhelming wide-ranging concerns for our environment, hunger, and poverty?'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=yp1i8_JFsao'
 title: 'Regenerative agriculture -- a solution to climate change | Ben Dobson | TEDxHudson'
-datePublished: '2016-03-17T03:24:11.046Z'
-dateModified: '2016-03-17T03:16:22.582Z'
 sourcePath: _posts/2016-03-17-regenerative-agriculture-a-solution-to-climate-change-or-b.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
