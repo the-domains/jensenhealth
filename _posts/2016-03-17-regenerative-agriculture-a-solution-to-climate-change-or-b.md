@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This talk was given at a local TEDx event, produced independently of the TED Conferences. What if we could reverse global warming with just one methodological shift? Can the way we farm radically impact not just our output but also overwhelming wide-ranging concerns for our environment, hunger, and poverty?'
-datePublished: '2016-03-17T03:28:57.115Z'
-dateModified: '2016-03-17T03:28:51.272Z'
+datePublished: '2016-03-17T03:29:11.994Z'
+dateModified: '2016-03-17T03:29:03.180Z'
 author:
   - name: TEDx Talks
     url: 'https://www.youtube.com/user/TEDxTalks'
