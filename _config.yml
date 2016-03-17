@@ -1,0 +1,28 @@
+name: JensenHealth
+favicon: null
+layout_spectrum: 0.7941898966673762
+typography_spectrum: 0.2758158100768924
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9395993645302951
+  lightness: 0.891764496685937
+  saturation: 0.5858205819968134
+  rhythmicContrast: 0.49753417167812586
+purpose: []
