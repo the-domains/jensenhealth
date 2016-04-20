@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: (SE) is a form of therapy aimed at relieving and resolving the symptoms of
-datePublished: '2016-04-20T23:39:12.593Z'
-dateModified: '2016-04-20T23:38:49.690Z'
+datePublished: '2016-04-20T23:41:49.081Z'
+dateModified: '2016-04-20T23:41:44.888Z'
 title: EMOTIONAL FREEDOM
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -23,7 +25,7 @@ _type: Article
 
 ---
 # EMOTIONAL FREEDOM
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a0e9a8-ed81-48f3-b79d-ddc4032ebda5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7fc655ef97db890949bc3ab00b81a4b0bb535e.jpg)
 
 ## Somatic Experiencing
 
@@ -60,7 +62,6 @@ Emotional Freedom Technique (EFT):
 > 
 > But keep in mind that, more than any traditional or alternative method I have used or researched, EFT works. I have witnessed the results in my patients since deciding to use EFT exclusively in June of 2001\. Indeed, because of its very high rate of success, the use of EFT has spread rapidly, and [medical practitioners employing EFT][2]can now be found in every corner of the country and world.
 > 
->   
 > This manual will provide an overview on how and where to tap, and the proper affirmation techniques, so that you can begin using EFT immediately to help yourself and others. It will also provide an introduction to some advanced EFT techniques and principles you can employ.
 
 
