@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Each year, more than 4 billion pounds of toxicchemicals are released into the environment; these toxic chemicals can accumulate in your body and affect overall health. Long-term exposure to even small amounts of these substances has been linked to a number of unwelcome health effects. Under normal circumstances, your body is able to rid itself of harmful chemicals andpollutants. But sometimes, the sheer volume of toxins to which you are exposed can overwhelm natural processes and accumulate in your tissues. Add to that an unhealthy diet lacking in proper nutrients, and the problem can get even worse. '
-datePublished: '2016-04-21T00:05:02.315Z'
-dateModified: '2016-04-21T00:04:56.763Z'
+datePublished: '2016-04-21T01:40:53.160Z'
+dateModified: '2016-04-21T01:40:48.759Z'
 title: Cleansing Programs
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 # Cleansing Programs
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b199eace-0465-42a9-9678-6cf004b1ad71.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe961ae-9c04-4ff6-a07c-c91d8d12a2ee.jpg)
 
 Each year, more than 4 billion pounds of toxicchemicals are released into the environment; these toxic chemicals can accumulate in your body and affect overall health. Long-term exposure to even small amounts of these substances has been linked to a number of unwelcome health effects. Under normal circumstances, your body is able to rid itself of harmful chemicals andpollutants. But sometimes, the sheer volume of toxins to which you are exposed can overwhelm natural processes and accumulate in your tissues. Add to that an unhealthy diet lacking in proper nutrients, and the problem can get even worse. 
 
