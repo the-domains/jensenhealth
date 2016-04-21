@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:'
-datePublished: '2016-04-21T01:36:57.222Z'
-dateModified: '2016-04-21T01:36:50.640Z'
+datePublished: '2016-04-21T01:47:09.020Z'
+dateModified: '2016-04-21T01:47:04.504Z'
 title: Electric and Magnetic Fields
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 # Electric and Magnetic Fields
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1899ea9c-c332-4b33-86c3-8ac8943590a0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e142a210-d166-4468-a79c-a019d72e0f50.jpg)
 
 Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:
 
@@ -34,11 +34,7 @@ Electric and magnetic fields (EMFs) are invisible areas of energy, often referre
 
 #### Can EMFs be harmful to my health?
 
-During the 1990s, most EMF research focused on extremely low frequency exposures stemming from conventional power sources, such as power lines, electrical substations, or home appliances. While some of these studies showed a possible link between EMF field strength and an increased risk for childhood
-
-leukemia
-
-, their findings indicated that such an association was weak. Now, in the age of cellular telephones, wireless routers, and portable GPS devices (all known sources of EMF radiation), concerns regarding a possible connection between EMFs and adverse health effects still persists, though[current research][0]continues to point to the same weak association.
+During the 1990s, most EMF research focused on extremely low frequency exposures stemming from conventional power sources, such as power lines, electrical substations, or home appliances. While some of these studies showed a possible link between EMF field strength and an increased risk for childhood leukemia, their findings indicated that such an association was weak. Now, in the age of cellular telephones, wireless routers, and portable GPS devices (all known sources of EMF radiation), concerns regarding a possible connection between EMFs and adverse health effects still persists, though[current research][0]continues to point to the same weak association.
 
 Additionally, the few studies that have been conducted on adults show no evidence of a link between EMF exposure and adult cancers, such as leukemia, brain cancer, and breast cancer. Nevertheless, NIEHS recommends continued education on practical ways of reducing exposures to EMFs.
 
