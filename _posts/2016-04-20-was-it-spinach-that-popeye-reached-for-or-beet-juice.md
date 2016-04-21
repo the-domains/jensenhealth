@@ -6,11 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.'
-datePublished: '2016-04-21T19:39:21.052Z'
-dateModified: '2016-04-21T19:39:16.291Z'
+datePublished: '2016-04-21T19:52:17.507Z'
+dateModified: '2016-04-21T19:52:12.270Z'
 title: "Turn the Beet Around — It's Good for You!"
 author:
-  - name: ''
+  - name: Ron Jensen
     url: ''
 sourcePath: _posts/2016-04-20-was-it-spinach-that-popeye-reached-for-or-beet-juice.md
 published: true
@@ -24,10 +24,8 @@ url: turn-the-beet-around-its-good-for-you/index.html
 _type: WebPage
 
 ---
-# Blog
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2716f0e-0bf3-4c0b-8148-7cd6f44b9527.jpg)
 
-  
 A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.
 
 The study, recently conducted at the Washington School of Medicine in St. Louis, is one of several university trials revealing that a small amount of beet juice is all it takes to beef up your exercise performance and endurance.
