@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:'
-datePublished: '2016-04-21T01:49:58.570Z'
-dateModified: '2016-04-21T01:49:50.019Z'
+datePublished: '2016-04-21T04:58:06.428Z'
+dateModified: '2016-04-21T04:58:00.617Z'
 title: Electric and Magnetic Fields
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 # Electric and Magnetic Fields
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e142a210-d166-4468-a79c-a019d72e0f50.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb11e178-cc03-4c7d-9e99-e26b7e850c71.jpg)
 
 Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:
 
