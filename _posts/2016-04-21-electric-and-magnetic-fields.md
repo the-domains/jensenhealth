@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:'
-datePublished: '2016-04-21T01:32:46.200Z'
-dateModified: '2016-04-21T01:32:39.086Z'
+datePublished: '2016-04-21T01:35:08.347Z'
+dateModified: '2016-04-21T01:35:03.516Z'
 title: Electric and Magnetic Fields
 author:
   - name: ''
@@ -24,8 +24,6 @@ url: electric-and-magnetic-fields/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d322eba-ebe9-4b60-b8bd-6ec3f86d13af.jpg)
-
 # Electric and Magnetic Fields
 
 Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:
@@ -56,6 +54,7 @@ It is important to remember that the strength of a magnetic field decreases dram
 #### How can I find out if I'm being exposed to EMFs?
 
 If you are concerned about EMFs emitted by a power line or substation in your area, you can contact your local power company to schedule an on-site reading. You can also measure EMFs yourself with the use of a gaussmeter, which is available for purchase online through a number of retailers.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1899ea9c-c332-4b33-86c3-8ac8943590a0.jpg)
 
 [0]: http://www.ncbi.nlm.nih.gov/pubmed/20877339
 [1]: http://www.niehs.nih.gov/health/topics/agents/cellphones/index.cfm
