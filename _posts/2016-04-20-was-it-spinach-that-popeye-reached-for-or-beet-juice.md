@@ -1,25 +1,25 @@
 ---
-datePublished: '2016-04-21T19:07:10.223Z'
-sourcePath: _posts/2016-04-20-was-it-spinach-that-popeye-reached-for-or-beet-juice.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
+starred: false
 keywords: []
+description: 'A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.'
+datePublished: '2016-04-21T19:16:26.303Z'
+dateModified: '2016-04-21T19:16:18.551Z'
+title: "Turn the Beet Around — It's Good for You!"
 author:
   - name: Ron Jensen
     url: ''
+sourcePath: _posts/2016-04-20-was-it-spinach-that-popeye-reached-for-or-beet-juice.md
 published: true
-dateModified: '2016-04-21T19:01:43.630Z'
-title: "Turn the Beet Around — It's Good for You!"
+authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-description: 'A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.'
-inLanguage: null
-inNav: false
-starred: false
 url: turn-the-beet-around-its-good-for-you/index.html
 _type: Article
 
