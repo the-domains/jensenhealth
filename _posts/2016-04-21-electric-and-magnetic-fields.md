@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:'
-datePublished: '2016-04-21T04:58:06.428Z'
-dateModified: '2016-04-21T04:58:00.617Z'
+datePublished: '2016-04-21T05:06:11.235Z'
+dateModified: '2016-04-21T05:06:05.744Z'
 title: Electric and Magnetic Fields
 author:
   - name: ''
@@ -25,14 +25,14 @@ _type: Article
 
 ---
 # Electric and Magnetic Fields
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb11e178-cc03-4c7d-9e99-e26b7e850c71.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82ca6fa2-55a8-4955-8e8b-fd7865d53f4b.jpg)
 
 Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:
 
 * Non-ionizing: low-level radiation which is generally perceived as harmless to humans
 * Ionizing: high-level radiation which has the potential for cellular and DNA damage
 
-#### Can EMFs be harmful to my health?
+Can EMF's be harmful to my health?
 
 During the 1990s, most EMF research focused on extremely low frequency exposures stemming from conventional power sources, such as power lines, electrical substations, or home appliances. While some of these studies showed a possible link between EMF field strength and an increased risk for childhood leukemia, their findings indicated that such an association was weak. Now, in the age of cellular telephones, wireless routers, and portable GPS devices (all known sources of EMF radiation), concerns regarding a possible connection between EMFs and adverse health effects still persists, though[current research][0]continues to point to the same weak association.
 
