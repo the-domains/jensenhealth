@@ -6,21 +6,21 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-21T02:53:40.862Z'
-dateModified: '2016-04-21T02:53:37.464Z'
+datePublished: '2016-04-21T05:07:24.797Z'
+dateModified: '2016-04-21T05:07:16.653Z'
 title: Ron Jensen M.D.
 author: []
+sourcePath: _posts/2016-04-21-ron-jensen-md.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-ron-jensen-md.md
-published: true
 url: ron-jensen-md/index.html
 _type: Article
 
 ---
 # Ron Jensen M.D.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf31310-a539-4d35-b914-28eac3f2f6a2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf6e04b-f957-4441-849c-ce9f27f297e1.gif)
