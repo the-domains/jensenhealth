@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: (SE) is a form of therapy aimed at relieving and resolving the symptoms of
-datePublished: '2016-04-20T23:48:21.761Z'
-dateModified: '2016-04-20T23:48:17.661Z'
+datePublished: '2016-04-21T00:05:29.213Z'
+dateModified: '2016-04-21T00:05:24.285Z'
 title: EMOTIONAL FREEDOM
 author:
   - name: ''
