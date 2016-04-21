@@ -1,29 +1,29 @@
-typography_spectrum: 0.37459
-color:
-  brandColors:
-    - '#191d1e'
-    - '#606e71'
-    - '#136071'
-    - '#31383a'
-    - '#889496'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.66424
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: JensenHealth
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9bf605-a5e9-4aa0-8c0b-2cdb1c1c4bec.jpg'
+layout_spectrum: 0.66424
+typography_spectrum: 0.37459
+title: Jensen Health
 cta:
   domain: null
   bucket: null
   version: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9bf605-a5e9-4aa0-8c0b-2cdb1c1c4bec.jpg'
-title: Jensen Health
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#616f72'
+    - '#ffffff'
+    - '#d4d7d8'
+    - '#899496'
+    - '#b4babc'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
