@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.'
-datePublished: '2016-04-21T19:21:12.345Z'
-dateModified: '2016-04-21T19:21:07.700Z'
+datePublished: '2016-04-21T19:21:39.600Z'
+dateModified: '2016-04-21T19:21:32.764Z'
 title: "Turn the Beet Around — It's Good for You!"
 author:
   - name: Ron Jensen
@@ -24,7 +24,7 @@ url: turn-the-beet-around-its-good-for-you/index.html
 _type: WebPage
 
 ---
-# Turn the Beet Around --- It's Good for You!
+# Blog
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/961aceb51d4353d5182025eb1b8ea13b9f25e2bb.jpg)
 
 A new study has emerged that may give hope to those who may see themselves as the proverbial "90-pound weakling." Surprisingly, the remedy can be found in the garden.
