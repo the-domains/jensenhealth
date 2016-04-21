@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: (SE) is a form of therapy aimed at relieving and resolving the symptoms of
-datePublished: '2016-04-21T00:48:37.202Z'
-dateModified: '2016-04-21T00:48:32.516Z'
+datePublished: '2016-04-21T01:03:10.020Z'
+dateModified: '2016-04-21T01:03:04.882Z'
 title: Emotional Freedom
 author:
   - name: ''
@@ -24,8 +24,9 @@ url: emotional-freedom/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef85ccc-f845-4fa7-bb49-6c2f45159e53.jpg)
+
 # Emotional Freedom
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7fc655ef97db890949bc3ab00b81a4b0bb535e.jpg)
 
 ## Somatic Experiencing
 
