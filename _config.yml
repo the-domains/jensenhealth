@@ -2,6 +2,7 @@ name: JensenHealth
 favicon: null
 layout_spectrum: 0.65711
 typography_spectrum: 0.94018
+title: Jensen Health
 cta:
   domain: null
   bucket: null
