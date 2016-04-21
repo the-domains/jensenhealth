@@ -4,8 +4,15 @@
         <description><![CDATA[JensenHealth]]></description>
         <link>https://thegrid.ai/jensenhealth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:37:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jensenhealth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Water]]></title>
+            <description><![CDATA[<article><h1>Water</h1><p>Acid-Alkaline Balance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/276d17f194cb1b77cc2e972387288417855c7539.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jensenhealth/water/index.html</link>
+            <guid isPermaLink="false">6a64b36c-7d96-47f5-96ea-04df490e8554</guid>
+            <pubDate>Thu, 21 Apr 2016 01:37:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electric and Magnetic Fields]]></title>
             <description><![CDATA[<article><h1>Electric and Magnetic Fields</h1><p>Electric and magnetic fields (EMFs) are invisible areas of energy, often referred to as radiation , that are associated with the use of electrical power and various forms of natural and man-made lighting. EMFs are typically characterized by wavelength or frequency into one of two radioactive categories:</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/jensenhealth/emotional-freedom/index.html</link>
             <guid isPermaLink="false">bd19cd67-646f-4fb7-8a1d-664403a31ea3</guid>
             <pubDate>Thu, 21 Apr 2016 01:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Water]]></title>
-            <description><![CDATA[<article><h1>Water</h1><p>Acid-Alkaline Balance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/276d17f194cb1b77cc2e972387288417855c7539.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jensenhealth/water/index.html</link>
-            <guid isPermaLink="false">6a64b36c-7d96-47f5-96ea-04df490e8554</guid>
-            <pubDate>Thu, 21 Apr 2016 00:54:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Air]]></title>
