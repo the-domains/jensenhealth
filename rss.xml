@@ -4,7 +4,7 @@
         <description><![CDATA[Jensen Health]]></description>
         <link>http://jensen.healthcare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 18:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 18:39:31 GMT</lastBuildDate>
         <atom:link href="http://jensen.healthcare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dr. Ron Jensen M.D.]]></title>
@@ -12,6 +12,20 @@
             <link>http://jensen.healthcare/ron-jensen-md/index.html</link>
             <guid isPermaLink="false">356723aa-6c97-4a6f-8176-c9e6c518d3bf</guid>
             <pubDate>Thu, 21 Apr 2016 16:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleansing Programs]]></title>
+            <description><![CDATA[<article><h1>Cleansing Programs</h1><h2>Choosing the Right UltraClear Formula</h2><p>Each year, more than 4 billion pounds of toxicchemicals are released into the environment; these toxic chemicals can accumulate in your body and affect overall health. Long-term exposure to even small amounts of these substances has been linked to a number of unwelcome health effects. Under normal circumstances, your body is able to rid itself of harmful chemicals andpollutants. But sometimes, the sheer volume of toxins to which you are exposed can overwhelm natural processes and accumulate in your tissues. Add to that an unhealthy diet lacking in proper nutrients, and the problem can get even worse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a652d15d7755b5dcc2a6039c99a5a2ee6245e09.jpg"></article>]]></description>
+            <link>http://jensen.healthcare/cleansing-programs/index.html</link>
+            <guid isPermaLink="false">a01a4ac1-d6dd-4624-8218-b7536f74fc8a</guid>
+            <pubDate>Sat, 28 May 2016 18:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air]]></title>
+            <description><![CDATA[<article><h1>Air</h1><h2>Air & Surface Purification Systems</h2><p>The Puradigm Purification System has been developed to deliver solutions for the worlds most challenging indoor issues. Puradigm’s Air Technology, using an enhanced ionization output, represents the newest generation of proactive air and surface purification. It is completely safe, unlike high levels of ozone, and effectively reduces mold, mildew, bacteria, viruses, odors, volatile organic compounds (VOCs), and the odors associated with them at their source, in the air, and on surfaces. Puradigm technology & solutions have been developed to address a varietyof commercial air & surface purification issues. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bc4a942fddb22551a3b9ac3f2ece9da6d542fd.jpg"></article>]]></description>
+            <link>http://jensen.healthcare/air/index.html</link>
+            <guid isPermaLink="false">e961ac73-8f7d-4fa2-92f5-39fbbd6d1cfb</guid>
+            <pubDate>Sat, 28 May 2016 18:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Water]]></title>
@@ -33,20 +47,6 @@
             <link>http://jensen.healthcare/emotional-freedom/index.html</link>
             <guid isPermaLink="false">bd19cd67-646f-4fb7-8a1d-664403a31ea3</guid>
             <pubDate>Thu, 21 Apr 2016 02:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleansing Programs]]></title>
-            <description><![CDATA[<article><h1>Cleansing Programs</h1><h2>Choosing the Right UltraClear Formula</h2><p>Each year, more than 4 billion pounds of toxicchemicals are released into the environment; these toxic chemicals can accumulate in your body and affect overall health. Long-term exposure to even small amounts of these substances has been linked to a number of unwelcome health effects. Under normal circumstances, your body is able to rid itself of harmful chemicals andpollutants. But sometimes, the sheer volume of toxins to which you are exposed can overwhelm natural processes and accumulate in your tissues. Add to that an unhealthy diet lacking in proper nutrients, and the problem can get even worse. </p></article>]]></description>
-            <link>http://jensen.healthcare/cleansing-programs/index.html</link>
-            <guid isPermaLink="false">a01a4ac1-d6dd-4624-8218-b7536f74fc8a</guid>
-            <pubDate>Thu, 21 Apr 2016 01:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Air]]></title>
-            <description><![CDATA[<article><h1>Air</h1><h2>Air & Surface Purification Systems</h2><p>The Puradigm Purification System has been developed to deliver solutions for the worlds most challenging indoor issues. Puradigm’s Air Technology, using an enhanced ionization output, represents the newest generation of proactive air and surface purification. It is completely safe, unlike high levels of ozone, and effectively reduces mold, mildew, bacteria, viruses, odors, volatile organic compounds (VOCs), and the odors associated with them at their source, in the air, and on surfaces. Puradigm technology & solutions have been developed to address a varietyof commercial air & surface purification issues. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bc4a942fddb22551a3b9ac3f2ece9da6d542fd.jpg"></article>]]></description>
-            <link>http://jensen.healthcare/air/index.html</link>
-            <guid isPermaLink="false">e961ac73-8f7d-4fa2-92f5-39fbbd6d1cfb</guid>
-            <pubDate>Thu, 21 Apr 2016 00:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
